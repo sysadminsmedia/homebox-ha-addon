@@ -1,9 +1,9 @@
 # https://developers.home-assistant.io/docs/add-ons/configuration#add-on-config
 name: Example add-on
 version: "1.2.1"
-slug: example
-description: Example add-on
-url: "https://github.com/home-assistant/addons-example/tree/main/example"
+slug: homebox
+description: Homebox add-on
+url: "github.com/jscarrott/homebox-addon/blob/main/example"
 arch:
   # - armhf
   - armv7
