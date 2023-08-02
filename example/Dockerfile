@@ -2,6 +2,7 @@
 ARG BUILD_FROM
 FROM $BUILD_FROM
 
+LABEL org.opencontainers.image.source=https://github.com/jscarrott/homebox-addon
 # Execute during the build of the image
 ENTRYPOINT [ "/app/api" ]
 CMD [ "/data/config.yml" ]
