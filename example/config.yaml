@@ -1,6 +1,6 @@
 # https://developers.home-assistant.io/docs/add-ons/configuration#add-on-config
 name: Example add-on
-version: "1.2.1"
+version: "1.2.2"
 slug: homebox
 description: Homebox add-on
 url: "https://github.com/jscarrott/homebox-addon/blob/main/example"
