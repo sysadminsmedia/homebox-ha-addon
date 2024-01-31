@@ -1,6 +1,6 @@
 # https://developers.home-assistant.io/docs/add-ons/configuration#add-on-dockerfile
 build_from:
-  aarch64: "ghcr.io/hay-kot/homebox:v0.9.2@sha256:5c520cf0eeda6ae7a5144d17cdf9d44a81d467c0ceb51654aee9b5c9d6674362"
+  aarch64: "ghcr.io/hay-kot/homebox:latest"
   amd64: "ghcr.io/hay-kot/homebox:v0.9.2@sha256:0ba6448437685bcb8b6170a6cd2ae6fb4417528f2b35ea350c7a2f4468c5fa56"
   # armhf: "ghcr.io/home-assistant/armhf-base:3.15"
   armv7: "ghcr.io/hay-kot/homebox:v0.9.2@sha256:0bad770f37e9fea8d8fda6fb10c3414923186f9b21943407529fae17c8c6b257"
