@@ -1,6 +1,6 @@
-# Home Assistant Add-on: Example add-on
+# Homebox Addon
 
-_Example add-on to use as a blueprint for new add-ons._
+Allows you to run the homebox inventory system as a home assistant add-on
 
 ![Supports aarch64 Architecture][aarch64-shield]
 ![Supports amd64 Architecture][amd64-shield]
