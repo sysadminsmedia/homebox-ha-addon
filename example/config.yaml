@@ -12,10 +12,6 @@ arch:
   # - i386
 map:
   - share:rw
-options:
-  message: "Hello world..."
-schema:
-  message: "str?"
 image: "ghcr.io/jscarrott/{arch}-addon-example"
 ports:
   7745/tcp: 7745
