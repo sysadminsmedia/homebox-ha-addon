@@ -3,7 +3,7 @@ name: Homebox Addon
 version: "2.0.2"
 slug: homebox
 description: Homebox add-on
-url: "https://github.com/jscarrott/homebox-addon/blob/main/example"
+url: "https://github.com/sysadminsmedia/homebox-ha-addon/blob/main/example"
 arch:
   # - armhf
   - armv7
