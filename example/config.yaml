@@ -13,9 +13,9 @@ arch:
 map:
   - share:rw
 options:
-  message: "Hello world..."
+  auto-increment-asset-id: true
 schema:
-  message: "str?"
+  auto-increment-asset-id: "bool"
 image: "ghcr.io/jscarrott/{arch}-addon-example"
 ports:
   7745/tcp: 7745
